@@ -8,7 +8,6 @@ A Social Application — building the next big thing in social tech!
 
 🌱 **Currently learning:**  
 - React Native  
-- Java  
 - JavaScript
 - ML    
 
@@ -16,7 +15,12 @@ A Social Application — building the next big thing in social tech!
 Machine Learning & Iot projects — let’s build something amazing together!
 
 📫 **How to reach me:**  
-Email: [skkabir2704@gmail.com](mailto:skkabir2704@gmail.com)
+Email: [skkabir2704@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRpdLkTMlLCxCBZtwhKmzSsLjPlQLFtjswCxmzLGHTJXfMkFBbZdMNBZJSVrgjgjzhFMRNB) 
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRpdLkTMlLCxCBZtwhKmzSsLjPlQLFtjswCxmzLGHTJXfMkFBbZdMNBZJSVrgjgjzhFMRNB" target="_blank" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="48" height="48" style="border-radius:50%;background:#fff;padding:6px;margin:8px;box-shadow:0 2px 8px #D4463888;"/>
+  </a>
+</p>
 
 ---
 
@@ -31,9 +35,6 @@ Email: [skkabir2704@gmail.com](mailto:skkabir2704@gmail.com)
   </a>
   <a href="https://www.instagram.com/s_kabir704/" target="_blank" title="Instagram">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="48" height="48" style="border-radius:50%;background:#e4405f;padding:6px;margin:8px;box-shadow:0 2px 8px #e4405f88;"/>
-  </a>
-  <a href="mailto:skkabir2704@gmail.com" target="_blank" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="48" height="48" style="border-radius:50%;background:#fff;padding:6px;margin:8px;box-shadow:0 2px 8px #D4463888;"/>
   </a>
 </p>
 
@@ -60,7 +61,7 @@ Email: [skkabir2704@gmail.com](mailto:skkabir2704@gmail.com)
 <p align="center">
   <!-- Reference image 2 row -->
   <a href="https://www.arduino.cc/" target="_blank" title="Arduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
@@ -69,7 +70,6 @@ Email: [skkabir2704@gmail.com](mailto:skkabir2704@gmail.com)
   <a href="https://linux.org/" target="_blank" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" title="Photoshop"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
@@ -80,8 +80,7 @@ Email: [skkabir2704@gmail.com](mailto:skkabir2704@gmail.com)
 <p align="center">
   <!-- Other tools -->
   <a href="https://www.raspberrypi.com/" target="_blank" title="Raspberry Pi"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" title="ESP32"><img src="https://img.icons8.com/fluency/48/000000/esp32.png" alt="ESP32" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
-  <a href="https://blynk.io/" target="_blank" title="Blynk"><img src="https://img.icons8.com/color/48/000000/blynk.png" alt="Blynk" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" title="ESP32"><img src="https://freesvg.org/img/1666364456Esp32_devkitc_v4.png" alt="ESP32" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://www.canva.com/" target="_blank" title="Canva"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://figma.com/" target="_blank" title="Figma"><img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
   <a href="https://www.microsoft.com/en/microsoft-365/" target="_blank" title="Microsoft Office"><img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft Office" width="40" height="40" style="border-radius:50%;background:#fff;padding:6px;margin:8px;"/></a>
