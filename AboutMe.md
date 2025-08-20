@@ -1,18 +1,19 @@
 [README_Version11.md](https://github.com/user-attachments/files/21904334/README_Version11.md)
 # 👋 Hi, I'm Shahriar Kabir (Kabir470)
 
-A passionate programmer diving deep into **Competitive Programming** and **AI**.
+A passionate programmer diving deep into **Developement**, **Inovation** and **AI**.
 
 🔭 **Currently working on:**  
 A Social Application — building the next big thing in social tech!
 
 🌱 **Currently learning:**  
-- Data Structures & Algorithms  
+- React Native  
 - Java  
-- JavaScript  
+- JavaScript
+- ML    
 
 👯 **Open to collaborate:**  
-Machine Learning projects — let’s build something amazing together!
+Machine Learning & Iot projects — let’s build something amazing together!
 
 📫 **How to reach me:**  
 Email: [skkabir2704@gmail.com](mailto:skkabir2704@gmail.com)
