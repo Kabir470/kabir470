@@ -89,7 +89,7 @@ Email: [skkabir2704@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inb
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir470&layout=compact&hide_border=true&langs_count=6&theme=default"/>
@@ -100,13 +100,10 @@ Email: [skkabir2704@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inb
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td >
       <img src="https://streak-stats.demolab.com?user=Kabir470&theme=default&hide_border=true&border_radius=8"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kabir470&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&theme=default"/>
     </td>
   </tr>
 </table>
