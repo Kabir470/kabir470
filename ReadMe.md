@@ -4,10 +4,10 @@
 A passionate programmer diving deep into **Developement**, **Inovation** and **AI**.
 
 🔭 **Currently working on:**  
-A Social Application — building the next big thing in social tech!
+ResQPlus, an AI-powered emergency response and community safety platform.
 
 🌱 **Currently learning:**  
-- React Native  
+- Asp.Net Core & SQL  
 - JavaScript
 - ML    
 
