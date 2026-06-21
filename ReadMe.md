@@ -4,15 +4,16 @@
 A passionate programmer diving deep into **Developement**, **Inovation** and **AI**.
 
 🔭 **Currently working on:**  
-ResQPlus, an AI-powered emergency response and community safety platform.
+Smart Certification System using Angular, Asp .Net Core web api and Azure PostgreSQL Service.
 
 🌱 **Currently learning:**  
-- Asp.Net Core & SQL  
-- JavaScript
+- Asp.Net Core & SQL
+- Angular
+- Docker
 - ML    
 
 👯 **Open to collaborate:**  
-Machine Learning & Iot projects — let’s build something amazing together!
+Software/Web Application, Machine Learning & Iot projects — let’s build something amazing together!
 
 📫 **How to reach me:**  
 Email: [skkabir2704@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRpdLkTMlLCxCBZtwhKmzSsLjPlQLFtjswCxmzLGHTJXfMkFBbZdMNBZJSVrgjgjzhFMRNB) 
