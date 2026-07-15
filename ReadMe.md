@@ -6,9 +6,9 @@ A passionate programmer diving deep into **Developement**, **Inovation** and **A
 🔭 **Currently working on:**  
 Smart Certification System using Angular, Asp .Net Core web api and Azure PostgreSQL Service.
 
-🌱 **Currently learning:**  
+🌱 **Currently Doing Projects with:**  
 - Asp.Net Core & SQL
-- Angular
+- Angular/Next.js
 - Docker
 - ML    
 
